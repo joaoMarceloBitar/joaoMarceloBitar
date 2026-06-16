@@ -1,7 +1,19 @@
 # Hello there!
 I'm João Marcelo Bitar, a Full Stack Developer from Brazil 🇧🇷.
 
+### Languages:
+  - JS
+  - Python
+  - C
+  - Java
+  - Typescript
 
+### Tech Stack:
+ - frontend
+   -  React
+   -  React-Native
+   -  Tailwind
+   -  
 <!--
 **joaoMarceloBitar/joaoMarceloBitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
