@@ -1,4 +1,4 @@
-<h1><img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://slackmojis.com/emojis/3252-kenobi)" width="30"/> Hello there!.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1757606333/129332/obiwankenobi-jedi-mindtrick.gif?1757606333" width="30"/> Hello there!.</h1>
 
 <!--
 **joaoMarceloBitar/joaoMarceloBitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
