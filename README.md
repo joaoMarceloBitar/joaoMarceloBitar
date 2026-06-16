@@ -1,4 +1,11 @@
-<h1><img src="https://images.squarespace-cdn.com/content/v1/63045fbeb87bb82e506fc20c/1699443199697-J2GN418QRLDKWY4OAKYR/Old+Ben.png" width="40"/> Hello there!.</h1>  
+<h1>
+  <img
+    src="https://images.squarespace-cdn.com/content/v1/63045fbeb87bb82e506fc20c/1699443199697-J2GN418QRLDKWY4OAKYR/Old+Ben.png"
+    width="40"
+    style="vertical-align: middle;"
+  />
+  Hello there!
+</h1>
 I'm João Marcelo Bitar, a Full Stack Developer from Brazil 🇧🇷.
 
 
