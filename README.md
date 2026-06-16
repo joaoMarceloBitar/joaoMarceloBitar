@@ -1,4 +1,4 @@
-<h1><img src="https://static.wikia.nocookie.net/lego-videogames/images/a/a0/Obi-Wan_Kenobi_%28Episode_III%29.png/revision/latest/smart/width/386/height/259?cb=20190714151828" width="30"/> Hello there!.</h1>
+<h1><img src="https://images.squarespace-cdn.com/content/v1/63045fbeb87bb82e506fc20c/1699443199697-J2GN418QRLDKWY4OAKYR/Old+Ben.png" width="40"/> Hello there!.</h1>
 
 <!--
 **joaoMarceloBitar/joaoMarceloBitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
