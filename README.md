@@ -1,5 +1,4 @@
-<img src="https://i.pinimg.com/originals/cc/e2/ce/cce2cee229527f3b369fa9cebb665fc0.gif"/>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1757606333/129332/obiwankenobi-jedi-mindtrick.gif?1757606333" width="30"/> Hello there!.</h1>
+<h1><img src="https://static.wikia.nocookie.net/lego-videogames/images/a/a0/Obi-Wan_Kenobi_%28Episode_III%29.png/revision/latest/smart/width/386/height/259?cb=20190714151828" width="30"/> Hello there!.</h1>
 
 <!--
 **joaoMarceloBitar/joaoMarceloBitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
