@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there!</h1>
-
+<img src="https://streak-stats.demolab.com?user=joaoMarceloBitar&theme=tokyonight"/>
 <p align="center">
   I'm <strong>João Marcelo Bitar</strong>, a Full Stack Developer from Brazil 🇧🇷
 </p>
