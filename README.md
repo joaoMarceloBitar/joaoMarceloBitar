@@ -20,6 +20,15 @@ I'm João Marcelo Bitar, a Full Stack Developer from Brazil 🇧🇷.
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+### Backend
+
+<p>
+    <img src="https://img.shields.io/badge/dynamic/json
+" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 <!--
 **joaoMarceloBitar/joaoMarceloBitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
